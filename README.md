@@ -13,6 +13,7 @@
   - 
 
 # To install package 
+- Inside project path run `.\.venv\Scripts\activate.bat` to activate env.
 - pip install -r requirements.txt
 
 # To run Juputrt on Browser : 
