@@ -55,4 +55,4 @@ Performance metrics on the held-out test set:
 
 | Model | Accuracy | Precision | Recall | F1-score |
 | :--- | :---: | :---: | :---: | :---: |
-| FFNN (BERT Embeddings) | 0.870 | 0.86 | 0.87 | 0.86 |
+| FFNN (BERT Embeddings) | 0.99 | 0.99 | 0.98 | 0.99 |
