@@ -1,1 +1,15 @@
-.venv/
+# Python cache
+*.py[cod]
+
+# Jupyter notebooks 
+.ipynb_checkpoints/
+
+
+# Data files (avoid pushing large data)
+*.csv
+*.zip
+*.rar
+
+# Office  files
+~$*.docx
+~$*.xlsx
