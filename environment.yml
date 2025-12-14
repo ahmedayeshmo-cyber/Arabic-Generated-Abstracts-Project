@@ -1,0 +1,12 @@
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - nltk
+
+  - pip:
+    - transformers
+    - tensorflow
